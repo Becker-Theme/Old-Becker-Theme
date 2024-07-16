@@ -1,0 +1,44 @@
+{
+  "name": "old-becker-theme",
+  "displayName": "[Deprecated] Becker Theme",
+  "description": "Becker Theme Official. A dark Theme for Visual Studio Code!",
+  "version": "0.2.2",
+  "publisher": "1231212312534564564dfssdfsd",
+  "bugs": {
+    "url": "https://github.com/Becker-Theme/old-becker-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Becker-Theme/old-becker-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark",
+    "Ernst Becker",
+    "Becker",
+    "Becker Theme",
+    "Dark Theme",
+    "VS Code",
+    "Code",
+    "Visual Studio Code"
+  ],
+  "galleryBanner": {
+    "color": "#0b0c0f",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Old-Becker-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Old Becker Theme-color-theme.json"
+      }
+    ]
+  }
+}
