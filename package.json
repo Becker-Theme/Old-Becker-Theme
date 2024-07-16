@@ -1,7 +1,7 @@
 {
-  "name": "becker-theme",
+  "name": "deprecated-becker-theme",
   "displayName": "[Deprecated] Becker Theme",
-  "description": "Becker Theme Official. A dark Theme for Visual Studio Code!",
+  "description": "[Deprecated]",
   "version": "0.2.2",
   "publisher": "ErnstBeckerNeto",
   "bugs": {
